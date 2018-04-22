@@ -1,0 +1,3 @@
+com\afam\apps\firstcup\web\DukesBDay.class
+com\afam\apps\firstcup\entity\FirstcupUser.class
+com\afam\apps\firstcup\ejb\DukesBirthdayBean.class
